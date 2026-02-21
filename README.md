@@ -85,19 +85,18 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats & Dev Quote</h3>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=nhilya&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://streak-stats.demolab.com?user=nhilya&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=10&date_format=M%20j%5B,%20Y%5D&order=3" 
+    height="200"
+  />
+  
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+    height="200"
+  />
 </div>
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
