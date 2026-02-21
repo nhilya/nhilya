@@ -72,8 +72,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vite/646CFF" height="65" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="65" alt="trello logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/sqlite/003B57" height="65" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="65" alt="linux logo"  />
